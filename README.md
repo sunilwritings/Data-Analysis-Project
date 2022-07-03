@@ -10,14 +10,25 @@ for breast cancer.
 Used plots:
 
 1.SCATTER PLOTS
+
 2.PAIR PLOTS
+
 3.HISTOGRAM
+
 4.PDF
+
 5.CDF
+
 6.Box plot and Whiskers
+
 7.Violin plots
+
 8.Mean, Variance, Std-deviation Median
-9.Quantiles,
+
+9.Quantiles
+
 10.Percentiles
+
 11.IQR
+
 12.2D Density plot,contors-plot
